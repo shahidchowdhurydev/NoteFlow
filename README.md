@@ -42,7 +42,7 @@
 ### Edit Notes
 ![Screenshot](screenshot3.png)
 
-### Delete Feature
+### Delete Note From List
 ![Screenshot](screenshot4.png)
 
 ---
